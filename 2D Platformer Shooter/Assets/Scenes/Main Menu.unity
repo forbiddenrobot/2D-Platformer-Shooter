@@ -2363,8 +2363,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0013275, y: -19.441}
-  m_SizeDelta: {x: 593.95, y: 88.882}
+  m_AnchoredPosition: {x: -0.000030518, y: -23}
+  m_SizeDelta: {x: 678.6861, y: 88.882}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1198579869
 MonoBehaviour:
@@ -2386,7 +2386,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Programmed by: Alexey Dmitriev'
+  m_text: 'By: ForbiddenRobot'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 85b00ad1a17d4fa48b4ea15b3d4296b5, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 85b00ad1a17d4fa48b4ea15b3d4296b5, type: 2}
